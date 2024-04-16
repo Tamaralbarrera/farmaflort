@@ -1,0 +1,202 @@
+     /**menuprincipal**/
+#header1{
+    background-color: rgba(124, 124, 245, 0.699);
+    display: flex;
+    font-size: large;
+    justify-content:center;
+    margin:0%;
+    padding: auto;
+}
+
+.inicio{
+    background-color:white
+    
+}
+
+.linksprincipales{
+    background-color: rgba(124, 124, 245, 0.699);
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    list-style-type: none;
+    text-decoration: none;
+    padding: 5px
+}
+
+.link1{
+    text-decoration: none;
+    color: black;
+
+}
+.link1:visited{
+    color: red;
+}
+.link2{
+    text-decoration: none;
+}
+.link2:visited{
+    color: red;
+}
+.link3{
+    text-decoration: none;
+}
+.link3:visited{
+color: red;
+}
+.link4{
+    text-decoration: none;
+}
+.link4:visited{
+    color: red;
+}
+footer{
+    background-color: darkseagreen;
+
+}
+
+/**index html**/
+
+h2{
+    color: crimson;
+    font-style: oblique;
+    display: flex;
+    justify-content: center;
+}
+
+.promociones{
+    display: flex;
+    margin-right: 0%;
+    width: 100px;
+    height: 100px;
+    justify-content:space-around;
+    
+}
+
+.videos{
+    display:flow-root;
+    justify-content: center;
+    justify-content: space-around;
+    
+}
+    /**sucursale**/ 
+h1{
+    font-style: oblique;
+    color: rgb(76, 0, 255);
+    display: flex;
+    justify-content: center;
+}
+  /**dermocosmetica**/
+.dermo{
+    display: grid;
+    grid-template-columns:  auto auto auto auto;
+    grid-template-rows: auto auto auto auto;
+
+
+
+}
+.color_rojo{
+    color: rgba(255, 0, 0, 0.856);
+}
+
+
+
+.grid.perfu{
+display: grid;
+grid-template-columns: auto auto auto auto;
+grid-template-rows: repeat(3,100px);
+
+row-gap: 10px;
+column-gap: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
